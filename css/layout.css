@@ -413,9 +413,13 @@ h1.logo img.white {
 }
 
 .sec_tit h2 {
-  font-size: 30px;
+  font-size: 35px;
   line-height: 47px;
   color: #070913;
+}
+
+.sec_tit p {
+  font-size: 18px;
 }
 
 a.blue_Btn {
@@ -458,7 +462,7 @@ a.blue_Btn:hover{
   line-height: 48px;
   border: 1px solid #070913;
   color: #070913;
-  font-size: 22px;
+  font-size: 24px;
   
 }
 .mainBtn.On{
@@ -535,13 +539,14 @@ a.blue_Btn:hover{
 
 .business_list .txt_box strong {
   display: block;
-  font-size: 16px;
+  font-size: 24px;
+  font-family: "Pretendard";
   line-height: 24px;
   transition: all .2s ease-in-out;
 }
 
 .business_list .txt_box p {
-  font-size: 15px;
+  font-size: 18px;
   line-height: 22px;
   color: #9c9c9c;
   margin-top: 6px;
@@ -561,7 +566,7 @@ a.blue_Btn:hover{
 /* --- SECTION 2  --- */
 
 .mainSec2{
-  margin: 0 50px;
+  margin: 0 40px;
   border-top: 1px solid #ccc;
 }
 
@@ -593,7 +598,7 @@ a.blue_Btn:hover{
 .mainSec3  > .inner > h2{
   color: #fff;
   margin-bottom: 30px;
-  font-size: 30px;
+  font-size: 35px;
 }
 .sec03_list {
   margin-left: -33px;
@@ -631,7 +636,7 @@ a.blue_Btn:hover{
 }
 
 .sec03_list li a .txt_box p {
-  font-size: 16px;
+  font-size: 22px;
   color: #fff;
   font-weight: bold;
 }
@@ -642,7 +647,7 @@ a.blue_Btn:hover{
 }
 
 .mainSec4 .sec_tit h2{
-  margin-bottom: 40px;
+  margin-bottom: 35px;
   font-weight: 800;
   font-size: 40px;
 }

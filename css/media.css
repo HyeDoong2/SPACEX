@@ -180,7 +180,7 @@
 
     /* 섹션 공통 여백 축소 */
     .mainSec{
-        padding: 64px 0;
+        padding: 80px 0;
     }
     .inner{
         padding: 0 20px;
@@ -194,11 +194,14 @@
     }
     /* 비즈니스 리스트 간격 조정 */
     .mainSec1{
-        padding: 64px 0 220px;
+        padding: 64px 0 50px;
     }
     .business_list li{
         margin-top: 30px;
-        width: calc(50% - 15px);
+        width: 100%;
+    }
+    .business_list li img{
+        width: 100%;
     }
     .business_list li:nth-child(2n){
         margin-left: 30px;

@@ -18,7 +18,7 @@ body {
   color: #333;
   line-height: 1.6;
   font-size: 16px;
-  font-family: 'Noto Sans KR', sans-serif;
+  font-family: 'Crimson Text', sans-serif;
   word-break: break-all;
   word-wrap: break-word;
   word-break: keep-all;
@@ -31,7 +31,7 @@ h3,
 h4,
 h5,
 h6 {
-  font-family: 'Noto Sans KR', sans-serif;
+  font-family: 'Pretendard', sans-serif;
 }
 
 body,
@@ -146,8 +146,8 @@ select,
 textarea {
   color: #555;
   line-height: 19px;
-  font-size: 13px;
-  font-family: 'Noto Sans KR', sans-serif;
+  font-size: 1px;
+  font-family: '', sans-serif;
   vertical-align: middle;
 }
 
@@ -293,8 +293,8 @@ audio[controls],
 canvas,
 video {
   display: inline-block;
-  *display: inline;
-  *zoom: 1;
+  display: inline;
+  zoom: 1;
 }
 
 /* Disable orange highlight */
@@ -348,7 +348,7 @@ button {
 }
 
 .clearfix {
-  *zoom: 1;
+  zoom: 1;
 }
 
 .clearfix:after {
